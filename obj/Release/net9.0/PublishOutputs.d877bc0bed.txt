@@ -1,0 +1,12 @@
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\TimeAPI.exe
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\TimeAPI.dll
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\TimeAPI.deps.json
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\TimeAPI.runtimeconfig.json
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\TimeAPI.pdb
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dex Task\API\TimeAPI\TimeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
